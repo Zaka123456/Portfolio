@@ -104,6 +104,25 @@
 
 ---
 
+### 10. 📦 Weather Integration, Sales Forecasting & SHAP Explainability (Master Research Projec)
+
+- **Focus:** Forecasting e-commerce sales across the **entire DataCo Supply Chain dataset** using advanced machine learning and deep learning, with explainable AI for transparency.  
+- **Tools:** Python (pandas, scikit-learn, CatBoost, XGBoost, Random Forest, LSTM, SHAP, Matplotlib).  
+- **Dataset:** ~180k customer orders (2015–2017) with transactional, product, and customer details, enriched with **weather variables** (temperature, humidity, precipitation, wind) from the Visual Crossing API.  
+- **Workflow:**  
+  - Engineered lagged features (1-, 7-, 30-day sales lags) and integrated weather data.  
+  - Trained and compared models: **CatBoost, Random Forest, XGBoost, and LSTM**.  
+  - Evaluated performance using **MAE, RMSE, sMAPE, and R²**.  
+  - Applied **SHAP (Shapley Additive Explanations)** to interpret model predictions and rank feature importance.  
+- **Key Findings:**  
+  - **LSTM was the best-performing model**, achieving the highest R² and lowest RMSE/sMAPE among all tested approaches.  
+  - Lagged sales features were the strongest predictors; weather features added modest but useful improvements.  
+  - SHAP analysis showed that `Product Card ID`, `Sales_Lag_1`, `Order Profit per Order`, and weather lags were the most influential drivers of sales forecasts.  
+- **Impact:** Demonstrated that **deep learning (LSTM) combined with explainable AI (SHAP)** provides both **state-of-the-art forecasting accuracy and interpretability**, helping e-commerce businesses improve inventory planning and decision-making.
+
+---
+
+
 ## 🚀 Skills Summary
 - **Languages:** Python, R, SQL, Excel, SAS  
 - **ML/DL:** Regression, Classification, XGBoost, Random Forest, LSTM/GRU, CNN  
