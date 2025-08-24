@@ -62,7 +62,7 @@
 
 ---
 
-### 6. 🌍 Mosaic Migrants – Accessibility & Settlement Analysis (Collaborative)
+### 6. 🌍 Mosaic Migrants – Accessibility & Settlement Analysis (Collaborative Migration Data Challenge)
 - **Tools:** GIS, Python/R, Statistics Canada Census 2016/2021  
 - **Questions:** How do immigrant classes and generations differ by workplace, school, and healthcare access?  
 - **Findings:**  
