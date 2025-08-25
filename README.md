@@ -137,4 +137,3 @@
 - **LinkedIn:**  https://www.linkedin.com/in/muhammadzaka/
 - **GitHub:** https://github.com/Zaka123456
 - **Kaggle:** https://www.kaggle.com/zakashah
-- **CV:**
