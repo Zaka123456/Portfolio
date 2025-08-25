@@ -134,6 +134,7 @@
 
 ## 📫 Contact
 - **Email:** zaka.shaheryar@gmail.com
-- **LinkedIn:**  
+- **LinkedIn:**  https://www.linkedin.com/in/muhammadzaka/
 - **GitHub:**
+- **Kaggle:**
 - **CV:**
